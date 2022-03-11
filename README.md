@@ -1,18 +1,18 @@
 # OrgComm
 ../orgComm//
-├── benchOC.md
-├── CommaAiSlides.pptx
-├── commaNotes.md
-├── GuideToPresentations.pdf
-├── IlluminateIgniteChangeThroughSpeeches.pdf
-├── [memo1 outline](memo1/outline.md)
-├── PersuasivePresentations_HBR.pdf
-└── pres1/
-    ├── JnJ.md
-    ├── JnJPresOne.pptx
-    ├── OverviewJnJ.docx
-    ├── OverviewJnJ.pdf
-    └── script.md
+├── benchOC.md  
+├── CommaAiSlides.pptx  
+├── commaNotes.md   
+├── GuideToPresentations.pdf    
+├── IlluminateIgniteChangeThroughSpeeches.pdf   
+├── [memo1 outline](memo1/outline.md)   
+├── PersuasivePresentations_HBR.pdf     
+└── pres1/  
+    ├── JnJ.md  
+    ├── JnJPresOne.pptx     
+    ├── OverviewJnJ.docx    
+    ├── OverviewJnJ.pdf     
+    └── script.md   
 
 2 directories, 12 files
 
